@@ -1,0 +1,15 @@
+{
+  "name": "jurassic_park_wk6day2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dino.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
